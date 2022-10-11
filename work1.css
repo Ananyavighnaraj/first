@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+}
+h1{
+    color:blue;
+    text-align: center;
+}
+a{
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: orange;
+    text-align: left;
+}
+h4{
+
+    color:white;
+    text-decoration-line: underline;
+}
+li{
+    color:burlywood
+}
+td{
+    color:green;
+}
+th{
+    color:white;
+    text-decoration: solid;
+}
